@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="FlowExp.exe" version="2.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="FlowExp.exe" version="2.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="FlowExp.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlowExp.exe" size="606208">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlowExp.exe" size="645632">
       <assemblyIdentity name="FlowExp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EHBklGNVIwTtXxSWGtZX8LgGUJiwKxlwKmH1TdjqxkQ=</dsig:DigestValue>
+        <dsig:DigestValue>FWKRLlVrsZXcYuSpzj1BuQcyT59NPZMDSaDbS3qBx4c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -888,22 +888,22 @@
       <dsig:DigestValue>Tes+2bUhTq5elT4xcHscygMs1IZ9iXRLOquSXYxmCU4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FlowExpert_SQLite_DDL.txt" size="5483">
+  <file name="FlowExpert_SQLite_DDL.txt" size="5638">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>r754E33QKpgTL1CcjFuQ80yCI089IXUs7EtQ8FGkb2I=</dsig:DigestValue>
+      <dsig:DigestValue>lXnCBI6VJMzr2CoW+fudT89mQVfybYoU67/WGpu6jLw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="readome.md" size="1422">
+  <file name="readome.md" size="2258">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>+SPFkLozLTswKrgHlvJsaLyDWSZTWnN7qqO4szGLF/k=</dsig:DigestValue>
+      <dsig:DigestValue>f7dXUQ4vtgnfJ5JikGKEpgkf2Zp+vL4iiJwGXxY+KfE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
